@@ -7,7 +7,14 @@ This project was design to guide one's interest in creating a Kickstarter Campai
 Our purose was to provide Louise a guide on best approach for a realistix goal and Launch Data timeline for a Kickstarter campaign for her play _Fever_. The data analyzed will provide vital information that depicts factors that can affect a Kickstarter campaign's success.
 
 ## Analysis and Challenges
-Louise wanted to 
+Louise wanted to compare how her Play Kickstarter for _Fever_ compared to similar Kickstarters
+(Line graph of Theatert outcomes based on Launch Date)
+May and June are the best months to launch her Kickstarter
+December is the worst month to launch a Theater/Play kickstarter
+We also analyzed the Outcomes Based on Goals to observe is there a correlation to their success. 
+(insert Outcomes Based on Goal graph)
+Louise was also looking to 
+
 
 ### Analysis of Outcomes Based on Launch Date
 
