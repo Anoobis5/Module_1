@@ -10,7 +10,8 @@ The purose of the original analysis was to provide Louise a guide on how to best
 Louise wanted to compare how her Play Kickstarter for _Fever_ compared to similar Kickstarters. 
 
 Upon initial analysis of the Kickstarters data collected, we observed that campaigns for Theater Kickstarters showed good odds of success overall, as well as Kickstarters in the sub-category for Plays, as shown in the two graphs below:
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84881187/121794600-a2858a80-cbd7-11eb-9baa-81bbe5a500fb.png)
+![Category_Statistics](https://user-images.githubusercontent.com/84881187/121796085-660c5b80-cbe4-11eb-94fd-c44f70c56ee1.png)
+
 ![Sub_Category_Statistics](https://user-images.githubusercontent.com/84881187/121794602-a3b6b780-cbd7-11eb-8e4a-e0ca2f354c6d.png)
 
 In order to aim for the best chances of Louise's Kickstarer campaign seeing success, we analyzed when would  be the most opportune time for her to launch her campaign. We analyzed the outcomes of Theater Kickstarter campaigns in correlation to their Launch Dates, as depicted by the graph below:
