@@ -22,36 +22,20 @@ The months of May, June, and July all have the high success rates for Theater Ki
 We also analyzed the Outcomes Based on Goals to observe is there a correlation to their success.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84881187/121792910-7282bb00-cbc8-11eb-9c3e-527593a34696.png)
-(insert Outcomes Based on Goal graph)
- In general, we observed that the higher the goal the higheer the rate of failure. Louise's play _Fever_ istwise as much as the average. (CONFIRM THIS)
 
-Louise was also looking to create a Kickstarter for a play in Great Britain. 
-(insert Box Plot)
-Our data here shoes that both the mean and median pledge amounts are significantly lower than the successful pldges. This indicates that failed Kickstarters are unsuccessful for reasons other than a large Goal
-Our data also suggests that Louise should try to have her musical produced for less than 4k Euro, becasue about half of the campaign goals are less than 2K Euros.
+Louise was also looking to create a Kickstarter for a play in Great Britain, with a budget of. The chart below displays compares the discriptive statistics of the Goals and Pledges of Musical Kickstarters in Great Britain: 
+
+![Musicals in Great Britain](https://user-images.githubusercontent.com/84881187/121795104-7966f900-cbdb-11eb-83c4-f2eb95cb045c.png)
+
+Looking at this chart, we can observe that the average Goal for successful Musical Kickstarters in Great Britain is about €4,000. 
+
+In both data set we observed that the higher the goal the higher the rate of failure. Louise's play _Fever_ is twise as much as the average across Kickstarters in both the United States and in Great Britain. Theater Kickstarters in the United States with a similar goal have around a 46% succes rate. Our data would also suggest that Louise should aim to have her musical produced for less than €4,000, becasue about half of the campaign goals are a little over the 3rd quartile for ammounts pledged at €2,000.
 
 Both theater and play kickstarters have shown success in the US. Play vs Kickstarter success (pursue play because...)
 
-She should reduce her goal is possible
-
-### Analysis of Outcomes Based on Launch Date
-
-
-
-Great Britain Pledge vs Goals
-![Musicals in Great Britain](https://user-images.githubusercontent.com/84881187/121792932-a5c54a00-cbc8-11eb-8bda-b95f834a83ee.png)
-
-
-### Analysis of Outcomes Based on Goals
-In general, the higher the goal, the higher the rate of failure. Louise's play _Fever_ if twise as much as the average. (CONFIRM THIS)
-
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84881187/121792910-7282bb00-cbc8-11eb-9c3e-527593a34696.png)
-
 ### Challenges and Difficulties Encountered
 
-The biggest challenge was the lack of more specific actions for Louise to take. We were able to create a guide to success, but many factors limited how succeessful she could be based on the data provided.
-
-While she started in May June the length of her campaign and the goal could have results in the campaigns failure. Given that she came close to her goal in a short period of time, there may have been another factor that hindered her success. Maybe add a chart defining campaign length and success, and what constitutes a 'short' campaign. Less than 4 weeks? Outcomes Based on Length bar graph? With the data we have, we can observed Kickstarters that were Live during the time of collection, but this limits whether or not length could be a factor for success or failure. Information on average donation along with the average pledge amaounts could give us information on whether the timing could affect how much a backer could donate.  Donations could be affected by outside limiting facotrs such ass Tax season vs Christmas time resulting in people being more generous with donations. Average Donations with campaign length could also give useful informastion that could lead to campaign success
+One of the biggest challenges in the data we were able to present was the lack of data that could provide a more specific direction Louise to take when creating her Kickstarter campaign. We were able to identify some factors that could result in a successful Kickstarter, but many factors limited how succeessful she could be based on the data provided. One factor we did not consider, was whether the length a campaign was active had an effect on the campaign's success. We could have added a chart defining campaign length and what constitutes a 'short' time vs a 'long' campaign. However, since Louise's campaign came close to reaching it's goal in a short period of time, there may have been another factor that hindered her success other than the length of the campaign.  With the data we have, we can only observe Kickstarters during the time of collection. This creates a limitation in the rang of our data. The data gathered only consists of Kickstarters from 2014 - 2016. TO have a better understanding of successful Kickstarters for her campaign, we would need to collect more recent data.Information on average donation along with the average pledge amaounts could give us information on whether the timing could affect how much a backer could donate.  Donations could be affected by outside limiting facotrs such ass Tax season vs Christmas time resulting in people being more generous with donations. Average Donations with campaign length could also give useful informastion that could lead to campaign success
 
 ## Results
 
@@ -65,7 +49,7 @@ While she started in May June the length of her campaign and the goal could have
 - This can be a problem for Louise, because looking at our data (insert chart) her goal is more than 2x the average goal. This could result in failure.
 
 - What are some limitations of this dataset?
--one of the limitations of the data is the date range. The data gathered consists of Kickstarters from 2014 - 2016. TO have a better understanding of successful Kickstarters for her campaign, we would need to collect more recent data.
+
 -We would need to know how long she would be willing to have her campaign Live to reach her goal
 How many backers were active at the time this data was collected. Are those Kickstarters donaters still donating to Theater related Kickstarters in the US and/or Great Britain.
 -
