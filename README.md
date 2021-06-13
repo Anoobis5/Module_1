@@ -2,7 +2,7 @@
 An analysis of Kickstarter campaign trends for creating a Play Kickstarter.
 
 ## Overview of Project
-This project was designed to analyze trends in creating a Kickstarter Campaign for a Play. The visualized data analyzes how different trends and factors can influence the success of a Kickstarter campaign. 
+This project was designed to analyze trends in creating a Kickstarter Campaign for a Theater/Play. The visualized data analyzes how different trends and factors can influence the success of a Kickstarter campaign. 
 
 ### Purpose
 The purose of the original analysis was to provide Louise a guide on how to best create a Kickstarter for her play _Fever_, that is estimated to cost $12,000. However, Louise fell short of making her goal. She also plans to create a Kickstarter campaign for a play in Great Britain with an estimated cost of €4,000. The data analyzed in this report will provide information that depicts factors that can affect a Kickstarter campaign's success, how Louise's Kickstarter fared in comparison, and what factors she should consider when pursuing a campaign in Great Britain
@@ -40,8 +40,6 @@ Looking at this chart, we can observe that the average goal for successful Music
 One of the biggest challenges in the data we were able to present was the lack of data that could provide a more specific direction Louise to take when creating her Kickstarter campaign. We were able to identify some factors that could result in a successful Kickstarter, but many factors limited how succeessful she could be based on the data provided. One factor we did not consider, was whether the length a campaign was active had an effect on the campaign's success. 
 
 
-Average Donations with campaign length could also give useful informastion that could lead to campaign success
-
 ## Results
 
 
@@ -68,6 +66,4 @@ Average Donations with campaign length could also give useful informastion that 
 1. A box-and-whisker plot about Kickstarter Goals and Pledges in the United States prior to launching Louise's _Fever_ campaign. Providing more information regarding Goals and Pledges in correlation to their outcome could have guided Louise to alter her goal, potentially affecting her success rate.
 2. We could analyze the average donations by time to both help determine when people are more willing to donate, and what some good values for pledges for her campaign could be.nalyzing data on average donations along with the average pledge amounts at certain times of the year could give us information on whether the time a campaign was created, along with the campaign length, could affect how backers donated. Donations could be affected by outside limiting factors such as Tax season, Christmas time, etc. This could result in people being more generous or more hesitant with their donations. 
 3. We could have added a chart defining campaign length and what constitutes a 'short' time vs a 'long' campaign. However, since Louise's campaign came close to reaching it's goal in a short period of time, there may have been other factors that hindered her success other than the length of the campaign. 
-
--Other tables and graphs we could create are: bar graph of theater, musical, play kickstarters with success/live/fail/canceled results
 
