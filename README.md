@@ -40,32 +40,34 @@ One of the biggest challenges in the data we were able to present was the lack o
 
 ## Results
 
-What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 #### Looking at our data on the Outcomes Based on Lauunch Dates, we were able to conclude that:
-#hr
+
 1. May-late June are the most opportune Launch Dates for a Kickstarter campaign related to Theater and/or Plays
 
 2. The Higher the Goal Amount, the higher the chance the Kickstarter will result in failure,
  Knowning the opportune launch date may be paramount to Louise's success with her high goal.
-#hr
+
 
 #### Looked at the Outcomes Based on Goals, we can conclude that:
 1. Kickstarter campaigns with higher Goals have a higher chance to fail compared to successful campaigns with lower goals.
 
 2. Knowing this, it could be a problem for Louise's campaign., because looking at our data her goal is well above the average goal for successful campaigns. This could result in failure for her campaign in Great Britain.
 
-- What are some limitations of this dataset?
+
 #### Some limitations of our datasets are:
 
--We would need to know how long she would be willing to have her campaign Live to reach her goal
-How many backers were active at the time this data was collected. Are those Kickstarters donaters still donating to Theater related Kickstarters in the US and/or Great Britain.
+1. Our data is limited to Kickstarters from 2014 - 2016. We would need a data collection of more recent Kickstarter campaigns to analyze trends in recent successful campaigns.
+2. How many backers from 2014 - 2016 are still active currently, and are they still donating to relater Theater/Play Kickstarters in the US and/or Great Britain.
+3. Our current data does not account for....
 
 - What are some other possible tables and/or graphs that we could create?
+
+
+#### Other tables and graphes that we could create to help could be:
+1. A box-and-whisker plot about Kickstarter Goals and Pledges in the United States prior to launching Louise's _Fever_ campaign
+2. 
 -Other tables and graphs we could create are: bar graph of theater, musical, play kickstarters with success/live/fail/canceled results
- Both theater and play kickstarters have shown success in the US. Play vs Kickstarter success (pursue play because...)
 
-She should reduce her goal is possible
-
-We could also add a box plot about successfully funded plays in the US to get a better idea of values for Kickstarters in the US demo before pursuing them.
 
 
