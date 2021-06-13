@@ -40,25 +40,25 @@ One of the biggest challenges in the data we were able to present was the lack o
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 Looking at our data on the Outcomes Based on Lauunch Dates, we were able to conclude that:
- 1.May-late June are the most opportune Launch Dates for a Kickstarter campaign related to Theater and/or Plays
- 2The Higher the Goal Amount, the higher the chance the Kickstarter will result in failure,
+#hr
+ *1.May-late June are the most opportune Launch Dates for a Kickstarter campaign related to Theater and/or Plays
+ *2The Higher the Goal Amount, the higher the chance the Kickstarter will result in failure,
  Knowning the opportune launch date may be paramount to Louise's success with her high goal.
-
+#hr
 - What can you conclude about the Outcomes based on Goals?
 Looked at the Outcomes Based on Goals, we can conclude that:
- 1.Kickstarter campaigns with higher Goals have a higher chance to fail compared to successful campaigns with lower goals.
- 2. Knowing this, it could be a problem for Louise's campaign., because looking at our data her goal is well above the average goal for successful campaigns. This could result in failure for her campaign in Great Britain.
+ *1.Kickstarter campaigns with higher Goals have a higher chance to fail compared to successful campaigns with lower goals.
+ *2. Knowing this, it could be a problem for Louise's campaign., because looking at our data her goal is well above the average goal for successful campaigns. This could result in failure for her campaign in Great Britain.
 
 - What are some limitations of this dataset?
 
 -We would need to know how long she would be willing to have her campaign Live to reach her goal
 How many backers were active at the time this data was collected. Are those Kickstarters donaters still donating to Theater related Kickstarters in the US and/or Great Britain.
--
+
 - What are some other possible tables and/or graphs that we could create?
 -Other tables and graphs we could create are: bar graph of theater, musical, play kickstarters with success/live/fail/canceled results
--
  Both theater and play kickstarters have shown success in the US. Play vs Kickstarter success (pursue play because...)
 
 She should reduce her goal is possible
