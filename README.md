@@ -2,17 +2,28 @@
 An analysis of Kickstarter campaigns
 
 ## Overview of Project
-This project was designed to analyze trends in a Kickstarter Campaign for a Play. The visualized data analyzes how different trends and factors can influence the success of a Kickstarter campaign. SDWAS D 
+This project was designed to analyze trends in creating a Kickstarter Campaign for a Play. The visualized data analyzes how different trends and factors can influence the success of a Kickstarter campaign. 
 ### Purpose
-Our purose was to provide Louise a guide on best approach for a realistiC goal and Launch Data timeline for a Kickstarter campaign for her play _Fever_, that is estimated to cost $12,000. However, Louise fell short of missimmng her goal. The data analyzed will provide information that depicts factors that can affect a Kickstarter campaign's success, and and how Louise's Kickstarter fared in comparison.
+The purose of the original analysis was to provide Louise a guide on how to best create a Kickstarter for her play _Fever_, that is estimated to cost $12,000. However, Louise fell short of making her goal. The data analyzed in this report will provide information that depicts factors that can affect a Kickstarter campaign's success, and and how Louise's Kickstarter fared in comparison.
 
-## Analysis and Challenges
-Louise wanted to compare how her Play Kickstarter for _Fever_ compared to similar Kickstarters
-(Line graph of Theatert outcomes based on Launch Date)
-May and June are the best months to launch her Kickstarter
-December is the worst month to launch a Theater/Play kickstarter
-We also analyzed the Outcomes Based on Goals to observe is there a correlation to their success. 
+## Data Analysis and Challenges
+Louise wanted to compare how her Play Kickstarter for _Fever_ compared to similar Kickstarters. 
+
+Upon initial analysis of the Kickstarters data collected, we observed that campaigns for Theater Kickstarters showed good odds of success overall, as well as Kickstarters in the sub-category for Plays, as shown in the two graphs below:
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84881187/121794600-a2858a80-cbd7-11eb-9baa-81bbe5a500fb.png)
+![Sub_Category_Statistics](https://user-images.githubusercontent.com/84881187/121794602-a3b6b780-cbd7-11eb-8e4a-e0ca2f354c6d.png)
+
+In order to aim for the best chances of Louise's Kickstarer campaign seeing success, we analyzed when would  be the most opportune time for her to launch her campaign. We analyzed the outcomes of Theater Kickstarter campaigns in correlation to their Launch Dates, as depicted by the graph below:
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84881187/121792909-6f87ca80-cbc8-11eb-8021-5388f5eb52da.png)
+
+Looking at our data, we can observe that May appears to have the highest success rate for launch outcomes.
+The months of May, June, and July all have the high success rates for Theater Kickstarter campaigns;and December would bv the worst month to launch with almost as many campaigns failing. 
+We also analyzed the Outcomes Based on Goals to observe is there a correlation to their success.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84881187/121792910-7282bb00-cbc8-11eb-9c3e-527593a34696.png)
 (insert Outcomes Based on Goal graph)
+ In general, we observed that the higher the goal the higheer the rate of failure. Louise's play _Fever_ istwise as much as the average. (CONFIRM THIS)
 
 Louise was also looking to create a Kickstarter for a play in Great Britain. 
 (insert Box Plot)
@@ -25,9 +36,7 @@ She should reduce her goal is possible
 
 ### Analysis of Outcomes Based on Launch Date
 
-May appears to have the highest success rate for overall Launch outcomes
-The months of May, JUne, and July all have the highest success rates for similar Kickstarter campaigns
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84881187/121792909-6f87ca80-cbc8-11eb-8021-5388f5eb52da.png)
+
 
 Great Britain Pledge vs Goals
 ![Musicals in Great Britain](https://user-images.githubusercontent.com/84881187/121792932-a5c54a00-cbc8-11eb-8bda-b95f834a83ee.png)
