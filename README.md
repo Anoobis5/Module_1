@@ -13,7 +13,6 @@ May and June are the best months to launch her Kickstarter
 December is the worst month to launch a Theater/Play kickstarter
 We also analyzed the Outcomes Based on Goals to observe is there a correlation to their success. 
 (insert Outcomes Based on Goal graph)
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84881187/121792866-0f912400-cbc8-11eb-8d8e-739f114cc619.png)
 
 Louise was also looking to create a Kickstarter for a play in Great Britain. 
 (insert Box Plot)
@@ -28,10 +27,17 @@ She should reduce her goal is possible
 
 May appears to have the highest success rate for overall Launch outcomes
 The months of May, JUne, and July all have the highest success rates for similar Kickstarter campaigns
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84881187/121792909-6f87ca80-cbc8-11eb-8021-5388f5eb52da.png)
+
+Great Britain Pledge vs Goals
+![Musicals in Great Britain](https://user-images.githubusercontent.com/84881187/121792932-a5c54a00-cbc8-11eb-8bda-b95f834a83ee.png)
 
 
 ### Analysis of Outcomes Based on Goals
 In general, the higher the goal, the higher the rate of failure. Louise's play _Fever_ if twise as much as the average. (CONFIRM THIS)
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84881187/121792910-7282bb00-cbc8-11eb-9c3e-527593a34696.png)
+
 ### Challenges and Difficulties Encountered
 
 The biggest challenge was the lack of more specific actions for Louise to take. We were able to create a guide to success, but many factors limited how succeessful she could be based on the data provided.
