@@ -60,7 +60,7 @@ One of the biggest challenges in the data we were able to present was the lack o
 
 1. Our data is limited to Kickstarters from 2014 - 2016. We would need a data collection of more recent Kickstarter campaigns to analyze trends in recent successful campaigns.
 2. How many backers from 2014 - 2016 are still active currently, and are they still donating to relater Theater/Play Kickstarters in the US and/or Great Britain. In order to have a better understanding of successful Kickstarters for her campaign, we would need to collect more recent data. The data that we have can only observe Kickstarters from 2014 - 2016. This creates a limitation in the range of our data.  This creates a challenge in guiding Louise's campaign in Great Britain if we were to launch it soon.
-3. Our current data does not account for 
+3. Our current data for plays in Great Britain only has a sample size of 314 instances. When providing data to guide Louise's next campaign, we would want to have an increased sample size, along with a more recent sample.
 
 #### Other tables and graphes that we could create to help could be:
 1. A box-and-whisker plot about Kickstarter Goals and Pledges in the United States prior to launching Louise's _Fever_ campaign. Providing more information regarding Goals and Pledges in correlation to their outcome could have guided Louise to alter her goal, potentially affecting her success rate.
