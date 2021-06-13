@@ -36,18 +36,20 @@ Both theater and play kickstarters have shown success in the US. Play vs Kicksta
 
 ### Challenges and Difficulties Encountered
 
-One of the biggest challenges in the data we were able to present was the lack of data that could provide a more specific direction Louise to take when creating her Kickstarter campaign. We were able to identify some factors that could result in a successful Kickstarter, but many factors limited how succeessful she could be based on the data provided. One factor we did not consider, was whether the length a campaign was active had an effect on the campaign's success. We could have added a chart defining campaign length and what constitutes a 'short' time vs a 'long' campaign. However, since Louise's campaign came close to reaching it's goal in a short period of time, there may have been another factor that hindered her success other than the length of the campaign.  The data that we have, we can only observe Kickstarters during the time of collection. This creates a limitation in the rang of our data. The data gathered only consists of Kickstarters from 2014 - 2016. TO have a better understanding of successful Kickstarters for her campaign, we would need to collect more recent data.Information on average donation along with the average pledge amaounts could give us information on whether the timing could affect how much a backer could donate.  Donations could be affected by outside limiting factors such ass Tax season vs Christmas time resulting in people being more generous with donations. Average Donations with campaign length could also give useful informastion that could lead to campaign success
+One of the biggest challenges in the data we were able to present was the lack of data that could provide a more specific direction Louise to take when creating her Kickstarter campaign. We were able to identify some factors that could result in a successful Kickstarter, but many factors limited how succeessful she could be based on the data provided. One factor we did not consider, was whether the length a campaign was active had an effect on the campaign's success. We could have added a chart defining campaign length and what constitutes a 'short' time vs a 'long' campaign. However, since Louise's campaign came close to reaching it's goal in a short period of time, there may have been another factor that hindered her success other than the length of the campaign.  The data that we have, we can only observe Kickstarters from 2014 - 2016. This creates a limitation in the rang of our data. In order to have a better understanding of successful Kickstarters for her campaign, we would need to collect more recent data. Collecting  information on average donation along with the average pledge amaounts at certain times of the year could give us information on whether the time a campaign was created, along with the campaign length, could affect how much a backer could donate. Donations could be affected by outside limiting factors such as Tax season vs Christmas time resulting in people being more generous with donations. Average Donations with campaign length could also give useful informastion that could lead to campaign success
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--  (May-June are the most opportune Launch Dates for a Kickstarter campaigns related to Theatre/Plays)
--  The Higher the Goal Amount, the higher the cha nce a Kickstarter will fail.
--  Knowning the opportune launch date may be paramount to Louise's success with her high goal.
+Looking at our data on the Outcomes Based on Lauunch Dates, we were able to conclude that:
+ 1.May-late June are the most opportune Launch Dates for a Kickstarter campaign related to Theater and/or Plays
+ 2The Higher the Goal Amount, the higher the chance the Kickstarter will result in failure,
+ Knowning the opportune launch date may be paramount to Louise's success with her high goal.
 
 - What can you conclude about the Outcomes based on Goals?
-- Kickstarter campaigns with higher Goals have a tendency to fail in comparison to Successful campaigns
-- This can be a problem for Louise, because looking at our data (insert chart) her goal is more than 2x the average goal. This could result in failure.
+Looked at the Outcomes Based on Goals, we can conclude that:
+ 1.Kickstarter campaigns with higher Goals have a higher chance to fail compared to successful campaigns with lower goals.
+ 2. Knowing this, it could be a problem for Louise's campaign., because looking at our data her goal is well above the average goal for successful campaigns. This could result in failure for her campaign in Great Britain.
 
 - What are some limitations of this dataset?
 
