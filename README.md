@@ -28,7 +28,7 @@ Louise was also looking to create a Kickstarter for a play in Great Britain, wit
 
 ![Musicals in Great Britain](https://user-images.githubusercontent.com/84881187/121795104-7966f900-cbdb-11eb-83c4-f2eb95cb045c.png)
 
-Looking at this chart, we can observe that the average Goal for successful Musical Kickstarters in Great Britain is about €4,000. 
+Looking at this chart, we can observe that the average Goal for successful Musical Kickstarters in Great Britain is about €4,000. Louise is estimating her goal for
 
 In both data set we observed that the higher the goal the higher the rate of failure. Louise's play _Fever_ is twise as much as the average across Kickstarters in both the United States and in Great Britain. Theater Kickstarters in the United States with a similar goal have around a 46% succes rate. Our data would also suggest that Louise should aim to have her musical produced for less than €4,000, becasue about half of the campaign goals are a little over the 3rd quartile for ammounts pledged at €2,000.
 
@@ -59,14 +59,14 @@ One of the biggest challenges in the data we were able to present was the lack o
 
 1. Our data is limited to Kickstarters from 2014 - 2016. We would need a data collection of more recent Kickstarter campaigns to analyze trends in recent successful campaigns.
 2. How many backers from 2014 - 2016 are still active currently, and are they still donating to relater Theater/Play Kickstarters in the US and/or Great Britain.
-3. Our current data does not account for....
+3. Our current data does not account for...
 
 - What are some other possible tables and/or graphs that we could create?
 
 
 #### Other tables and graphes that we could create to help could be:
 1. A box-and-whisker plot about Kickstarter Goals and Pledges in the United States prior to launching Louise's _Fever_ campaign
-2. 
+2. We could analyze the average donations by time to both help determine when people are more willing to donate, and what some good values for pledges for her campaign could be.
 -Other tables and graphs we could create are: bar graph of theater, musical, play kickstarters with success/live/fail/canceled results
 
 
